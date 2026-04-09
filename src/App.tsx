@@ -384,17 +384,17 @@ const App = () => {
           <div className="footer-links">
             <h4>Connect</h4>
             <ul>
-              <li><a href="#" className="footer-link-item"><i className="fa-brands fa-telegram" style={{ fontSize: '18px' }}></i> Telegram</a></li>
-              <li><a href="#" className="footer-link-item"><i className="fa-brands fa-discord" style={{ fontSize: '18px' }}></i> Discord</a></li>
-              <li><a href="#" className="footer-link-item"><i className="fa-brands fa-instagram" style={{ fontSize: '18px' }}></i> Instagram</a></li>
+              <li><a href="https://t.me/doppagames" target="_blank" rel="noopener noreferrer" className="footer-link-item"><i className="fa-brands fa-telegram" style={{ fontSize: '18px' }}></i> Telegram</a></li>
+              <li><a href="https://discord.gg/rydhHrzF" target="_blank" rel="noopener noreferrer" className="footer-link-item"><i className="fa-brands fa-discord" style={{ fontSize: '18px' }}></i> Discord</a></li>
+              <li><a href="https://www.instagram.com/doppa.games/" target="_blank" rel="noopener noreferrer" className="footer-link-item"><i className="fa-brands fa-instagram" style={{ fontSize: '18px' }}></i> Instagram</a></li>
             </ul>
           </div>
         </div>
         <div className="footer-bottom">
           <p>© 2026 DOPPA GAMES — PUSHING THE BOUNDARIES OF GAMING.</p>
           <div style={{ display: 'flex', gap: '30px', opacity: 0.5 }}>
-            <a href="#">PRIVACY POLICY</a>
-            <a href="#">TERMS OF SERVICE</a>
+            <a href="#" target="_blank" rel="noopener noreferrer">PRIVACY POLICY</a>
+            <a href="#" target="_blank" rel="noopener noreferrer">TERMS OF SERVICE</a>
           </div>
         </div>
       </footer>
