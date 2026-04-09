@@ -1,0 +1,37 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Family Ties",
+      "desc": "Oilaviy munosabatlar va mas'uliyat haqida chuqur o'yin. Steamda mavjud!",
+      "long_desc": "Family Ties — bu oilaviy hayot, mojaro va muhabbat haqida hayajonli simulyator o'yin. Har bir qaroringiz oilangizning kelajagini belgilaydi. Steam'da o'ynang!",
+      "tags": [
+        "Simulation",
+        "Indie",
+        "Story Rich"
+      ],
+      "platform": "Steam",
+      "url": "https://store.steampowered.com/app/2675300/Family_Ties/",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2675300/header.jpg",
+      "status": "released",
+      "release_date": "2026",
+      "featured": true
+    }
+  ],
+  "settings": {
+    "studio_name": "Doppa Games",
+    "tagline": "Professional Indie Game Studio",
+    "about_title": "Eng ilg'or indie studiyasi",
+    "about_p1": "Doppa Games — 2026-yilda tashkil etilgan, xalqaro miqyosdagi professional indie o'yinlar studiyalaridan biri. Biz yuqori sifatli va hayajonli o'yin tajribasini yaratishga e'tibor qaratamiz.",
+    "about_p2": "Hozirda Steam'da Family Ties loyihasi mavjud va navbatdagi katta loyihalar ustida ish olib borilmoqda.",
+    "email": "contact@doppagames.com",
+    "telegram": "@doppagames_official",
+    "instagram": "@doppagames"
+  },
+  "admin": {
+    "username": "admin123",
+    "password": "admin1234a",
+    "admin_email": "admin@doppagames.uz",
+    "admin_name": "Doppa Administrator"
+  }
+}
